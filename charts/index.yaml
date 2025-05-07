@@ -3,7 +3,17 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-05-07T13:57:10.59113883+09:00"
+    created: "2025-05-07T13:59:13.868726906+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 0cd9b10b1a8b1519c719d4368f4f2344b803ad02072df7d72c9bda556af3d422
+    name: mychart
+    type: application
+    urls:
+    - https://stephenwon.github.io/test-charts/charts/mychart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-05-07T13:59:13.868280768+09:00"
     description: A Helm chart for Kubernetes
     digest: 58086911910720ea9937474900d93611031c8987bcd8f93303157a5cf10377fb
     name: mychart
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://stephenwon.github.io/test-charts/charts/mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-05-07T13:57:10.590587969+09:00"
+generated: "2025-05-07T13:59:13.867663014+09:00"
